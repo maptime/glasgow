@@ -7,7 +7,7 @@ repo: starter
 github_org: maptime
 maptime:
   chapter: "Glasgow"
-  twitter: "@MaptimeGlasgow"
+  twitter: "MaptimeGlasgow"
   #disqus: YOUR DISQUS USERNAME
 
 gems:
