@@ -6,8 +6,8 @@ paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Glasgow
-  twitter: @MaptimeGlasgow
+  chapter: "Glasgow"
+  twitter: "@MaptimeGlasgow"
   #disqus: YOUR DISQUS USERNAME
 
 gems:
