@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /glasgow
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: glasgow
 github_org: maptime
 maptime:
-  chapter: "Glasgow"
-  twitter: "MaptimeGlasgow"
+  chapter: Maptime Glasgow
+  twitter: MaptimeGlasgow
   #disqus: YOUR DISQUS USERNAME
 
 gems:
